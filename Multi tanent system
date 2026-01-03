@@ -1,0 +1,53 @@
+Multiple institutes can register their library
+
+!First feature
+
+each library data isolated
+
+4roles
+
+library ownel
+library admin(owner as a admin)
+staeholder student
+parents
+super admin(developer)
+
+complete RBSC system (role based access control system) 
+cache memory systm
+
+
+ROLE architecture
+super admin auto register and global master()
+library admin access only their lib() data
+
+invitation based registration system (super admin and admin can check and register for anomaly user)
+
+
+System architecture
+
+success registeration lib admin (register to platform and verified by super admin)
+then only publish to the platform 
+
+
+lib admin set the price 
+(slotting system)
+(payment system)
+sitting plan related
+lib owner task done 
+
+
+student task 
+global property
+open app give the location its nearby (specific locatio area wise)
+after that all lib(in specific area in map )
+student check seat availablity and pricing (filter based on pricing / location/ timing)
+just select the slot and pay amount sea reserved for a time frame 
+
+attendence system (QR based)
+for student()
+
+Pomodory techniques if student wants()no faltu apps work
+integrate the api (AI) for student help
+Profiling system
+
+management system for admin also(admin console)
